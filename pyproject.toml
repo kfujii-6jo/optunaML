@@ -20,6 +20,7 @@ optuna = "^3.5.0"
 python-dotenv = "^1.0.1"
 rdkit = "^2023.9.5"
 click = "^8.1.7"
+alembic = "^1.13.1"
 
 
 [build-system]
