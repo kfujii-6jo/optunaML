@@ -1,4 +1,5 @@
-import rdkit import Chem
+from rdkit import Chem
+
 
 def molfile_to_smiles(mol_file):
     mol = Chem.MolFromMolFile(mol_file)
